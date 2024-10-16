@@ -1,0 +1,9 @@
+{
+	"id": "iPokeWPVx7tvpTf",
+	"json": "{\"id\":\"iPokeWPVx7tvpTf\",\"url\":\"https://www.youtube.com/playlist?list=PL0lo9MOBetEG5P2wUZYfUUehbYArAgpng\",\"loadedUrl\":\"https://www.youtube.com/playlist?list=PL0lo9MOBetEG5P2wUZYfUUehbYArAgpng\",\"uniqueKey\":\"https://www.youtube.com/playlist?list=PL0lo9MOBetEG5P2wUZYfUUehbYArAgpng:7d740e99-477a-468b-afa8-801999de1ab3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-10-16T05:48:24.884Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.youtube.com/playlist?list=PL0lo9MOBetEG5P2wUZYfUUehbYArAgpng:7d740e99-477a-468b-afa8-801999de1ab3",
+	"url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEG5P2wUZYfUUehbYArAgpng"
+}

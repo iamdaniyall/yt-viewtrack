@@ -1,0 +1,28 @@
+{
+	"videos": [
+		{
+			"title": "Brand as a product: How GitHub uses Figma to scale brand and reach developers",
+			"views": 884,
+			"thumbnail": "https://i.ytimg.com/vi/_38BSWenmzc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1u-ZwGuJWlAE-rK6v4JVcO3z2rA",
+			"videoDate": "1 month ago"
+		},
+		{
+			"title": "Config Dev Community Event Panel Discussion",
+			"views": 617,
+			"thumbnail": "https://i.ytimg.com/vi/dhH0dN7JpAk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtIDwGR08dWEIrKyApXsREoKGlJA",
+			"videoDate": "1 month ago"
+		},
+		{
+			"title": "Putting theory into practice: How GitHub uses Figma for its a11y annotation kit and training",
+			"views": 1400,
+			"thumbnail": "https://i.ytimg.com/vi/bNweRLxWxGA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlQmiq7lsAnkELawiXhAhjQMbOiA",
+			"videoDate": "1 month ago"
+		},
+		{
+			"title": "Invisible Infrastructure: How we shipped new color tokens without breaking GitHub",
+			"views": 2100,
+			"thumbnail": "https://i.ytimg.com/vi/SjOieV8seec/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3fsUqSq79lTp9bdmHSxH6-bntsA",
+			"videoDate": "1 month ago"
+		}
+	]
+}

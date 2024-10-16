@@ -113,10 +113,14 @@ export async function POST(request: NextRequest) {
       videoList: videos,
       graphData: graphData,
     };
+    const response = NextResponse.json(playlistData);
 
+    response.headers.set('Access-Control-Allow-Origin', '*'); // Allow all origins
+    response.headers.set('Access-Control-Allow-Methods', 'POST, OPTIONS'); // Allow specific methods
+    response.headers.set('Access-Control-Allow-Headers', 'Content-Type');
     await dataset.drop();
 
-    return NextResponse.json(playlistData);
+    return response
   } catch (error) {
     console.error("Crawling failed:", error);
     await dataset.drop();
